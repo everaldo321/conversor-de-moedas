@@ -1,0 +1,56 @@
+.stApp {
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/4466306-ilustracao-fundo-azul-claro-design-branco-e-fundo-azul-design-limpo-e-moderno-design-vetor.jpg");
+    /* Imegem de fundo */
+
+
+}
+.st-emotion-cache-1wbqy5l {
+    display: none; /* Retirar Atalhos Streamlit */
+}
+.stAppHeader{
+    display: none; /* Retirar header Streamlit */
+        
+}
+
+
+.titulo {
+    color: #4A90E2;  /* Cor do título */
+    font-size: 40px; /* Tamanho da fonte do título */
+    text-align: center; /* Alinhamento do título */
+}
+
+.paragrafo {
+    font-size: 18px; /* Tamanho da fonte do parágrafo */
+    margin: 20px; /* Margem ao redor do parágrafo */
+    line-height: 1.5; /* Espaçamento entre linhas */
+    text-align: justify; /* Deixar texto justificado */
+
+}
+
+.stButton {
+    color: rgb(0, 0, 0); /* Cor do texto do botão */
+    border: none; /* Sem borda */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    font-size: 16px; /* Tamanho da fonte do botão */
+    cursor: pointer; /* Cursor em forma de mão ao passar sobre o botão */
+}
+
+.st-emotion-cache-1vt4y43:hover {
+    background-color: #02007d; /* Cor do botão ao passar o mouse */
+    color:aquamarine;
+    border-color: aquamarine;
+}
+
+.stMainBlockContainer{
+    position: relative; /* Subir texto */
+    top: -100px;
+}
+.st-emotion-cache-kgpedg{
+    display: none; /* Retirar cabeçalho sidebar */
+}
+.st-emotion-cache-1gwvy71{
+    text-align: justify; /* Deixar texto justificado */     
+}
+.st-emotion-cache-gi0tri{
+    display: none; /* Retirar incone do nome conversor de moeda */
+}
